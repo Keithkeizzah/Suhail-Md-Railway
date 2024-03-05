@@ -1,5 +1,5 @@
  <h1 align="center"> Keith Md </h1> 
-<p align="center"> Introducing Suhail_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> Introducing Keith_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
@@ -28,7 +28,7 @@
 
 
 
-<p align="center"> Suhail MD whatsapp bot uses
+<p align="center"> Keith MD whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -38,7 +38,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><b>Suhail-Md</b></a> Support Deploy On...
+  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><b>Keith-Md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -114,3 +114,5 @@ The Suhail_Md is made available under the [GPL-3 license](https://github.com/Suh
 - *In that case, I'm not responsible for banning your account.*
 - *Use Suhail-Md at your own risk by keeping this warning in mind.*
 - [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Suhail-Md)
+Developer
+{**Keith tech**}
